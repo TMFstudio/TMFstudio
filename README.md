@@ -25,12 +25,14 @@ Hi! I'm **Farbod**, a passionate .NET developer specializing in **ASP.NET Core**
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
+
 #### **🛠 Automation Testing** 
 <p>
   <img src="https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
   <img src="https://img.shields.io/badge/-SpecFlow-%23FF4081?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-Autofac-00A8D9?style=for-the-badge"/>
 </p>
+
 #### **📂 Databases & DevOps** 
 <p>
   <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
