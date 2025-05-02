@@ -2,11 +2,11 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=peymanmotamedifar&label=Profile%20views&color=00a8e8&style=flat" alt="peymanmotamedifar" /> </p> -->
 
 ### 🚀 About Me  
-Hi! I'm **Farbod**, a passionate .NET developer specializing in **ASP.NET Core**, **automation testing**, and **C#**. I love exploring the nuances of language, structuring automation projects, and building efficient web applications.  
+Hi! I'm **Farbod**, a passionate .NET developer specializing in **ASP.NET Core**, **automation testing**, and **C#**. I love exploring the new tech , and building efficient web applications.  
 
 - 🔍 Open to collaborating on exciting projects  
 - 🎯 Constantly learning new technologies  
-- 🔎 Ask me about **automation testing, web development, or GitHub best practices**  
+- 🔎 Ask me about **automation testing, web development, C#**  
 - 💡 Currently exploring **advanced test automation strategies**
 - 
 ### 🔗 **Find Me Here**  
